@@ -6,7 +6,7 @@ My journey involves learning and mastering the tools and skills necessary to in 
 ## Tools and Skills
 - Programming languages: Python, C
 - Web Developement: HTML, CSS
-- Cybersecurity: Cryptography
+- Cybersecurity: Cryptography, Ethical Hacking, OSINT 
 
 ## Projects and progress
 I use GitHub to track my progress and showcase my projects, to see how my skills and projects evolve over time. 
